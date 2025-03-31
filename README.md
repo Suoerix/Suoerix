@@ -1,8 +1,10 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suoerix)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @Suoerix
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web design
+- 🌱 I’m currently learning front-end knowledge
+- 💞️ I’m currently working as a game desginer at Sodayo Network, Beijing
+- 📫 Email me at [suoerix@gmail.com](mailto:suoerix@gmail.com) 
 
 <!---
 Suoerix/Suoerix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
