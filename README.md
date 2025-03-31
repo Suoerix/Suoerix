@@ -1,8 +1,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suoerix)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Suoerix
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning front-end knowledge
+- 👀 I’m interested in web design and learning front-end knowledges
 - 💞️ I’m currently working as a game desginer at Sodayo Network, Beijing
 - 📫 Email me at [suoerix@gmail.com](mailto:suoerix@gmail.com) 
 
